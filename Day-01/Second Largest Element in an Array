@@ -1,6 +1,6 @@
 Problem statement
 You have been given an array ‘a’ of ‘n’ unique non-negative integers.
-Find the second largest and second smallest element from the array.
+Find the second-largest and second smallest element from the array.
 Return the two elements (second largest and second smallest) as another array of size 2.
 
 Example :
