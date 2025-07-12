@@ -1,0 +1,29 @@
+Problem statement
+Given an array 'arr' with 'n' elements, the task is to rotate the array to the left by 'k' steps, where 'k' is non-negative.
+Example:
+'arr '= [1,2,3,4,5]
+'k' = 1  rotated array = [2,3,4,5,1]
+'k' = 2  rotated array = [3,4,5,1,2]
+'k' = 3  rotated array = [4,5,1,2,3] and so on.
+
+#CODE:
+void reverse(vector<int>& arr, int start, int end){
+    while(start <= end){
+        int temp = arr[start];
+        arr[start] = arr[end];
+        arr[end] = temp;
+        start++;
+        end--;
+    }
+
+}
+
+vector<int> rotateArray(vector<int>arr, int k) {
+    // Write your code here.
+    int n = arr.size();
+    k = k % n;
+    reverse(arr,0,k-1);
+    reverse(arr,k,n-1);
+    reverse(arr,0,n-1);
+    return arr;
+}
