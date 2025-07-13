@@ -20,14 +20,13 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |                     | 9. Right rotate by d places                     |
 |-----|---------------------|-------------------------------------------------|
 | 2   | Arrays – Basics     | 1. Move zeroes to the end                       |
-|     |                     | 2. Union of two sorted arrays                   |
-|     |   (13-07-2025)      | 3. Check if the array is sorted                 |
-|     |                     | 4. Check if the array is sorted and rotated     |
-|     |                     | 5. Remove Duplicates from the array             |
-|     |                     | 6. left rotate by one place                     |
-|     |                     | 7. Right rotate by one place                    |
-|     |                     | 8. left rotate by d places                      |
-|     |                     | 9. Right rotate by d places                     |
+|     |                     | 2. Linear Search                                |
+|     |   (13-07-2025)      | 3. Intersection of two Sorted arrays            |
+|     |                     | 4. Union of two sorted arrays                   |
+|     |                     | 5. Missing number in the array                  |
+|     |                     | 6. Maximum Consecutive ones                     |
+|     |                     | 7. Single Number                                |
+|     |                     | 8. Find the number that appears twice           |
 |-----|---------------------|-------------------------------------------------|
 
 
