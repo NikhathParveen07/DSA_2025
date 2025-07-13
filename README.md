@@ -6,15 +6,29 @@ I’m an aspiring software developer who dreams big, but often battles with fear
 That fear sometimes turns into procrastination. Still, I always come back — because my desire to master things from the ground up is stronger than my doubt.
 ✨ This journey is a reminder that progression matters more than perfection.
 I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and codestudio.
-|-----|---------------------|-------------------------------------------|
-| Day | Topic               | Problems Solved                           |
-|-----|---------------------|-------------------------------------------|
-| 1   | Arrays – Basics     | 1. Largest element in the array            |
-|     |                     | 2. Second-largest element in the array    |
-|     |                     | 3. Check if the array is sorted           |
-|     |                     | 4. Remove Duplicates from the array       |
-|     |                     | 5. Reverse an Array                       |
-|-----|---------------------|-------------------------------------------|
+|-----|---------------------|-------------------------------------------------|
+| Day | Topic               | Problems Solved                                 |
+|-----|---------------------|-------------------------------------------------|
+| 1   | Arrays – Basics     | 1. Largest element in the array                 |
+|     |                     | 2. Second-largest element in the array          |
+|     |                     | 3. Check if the array is sorted                 |
+|     |                     | 4. Check if the array is sorted and rotated     |
+|     |                     | 5. Remove Duplicates from the array             |
+|     |                     | 6. left rotate by one place                     |
+|     |                     | 7. Right rotate by one place                    |
+|     |                     | 8. left rotate by d places                      |
+|     |                     | 9. Right rotate by d places                     |
+|-----|---------------------|-------------------------------------------------|
+| 2   | Arrays – Basics     | 1. Move zeroes to the end                       |
+|     |                     | 2. Second-largest element in the array          |
+|     |                     | 3. Check if the array is sorted                 |
+|     |                     | 4. Check if the array is sorted and rotated     |
+|     |                     | 5. Remove Duplicates from the array             |
+|     |                     | 6. left rotate by one place                     |
+|     |                     | 7. Right rotate by one place                    |
+|     |                     | 8. left rotate by d places                      |
+|     |                     | 9. Right rotate by d places                     |
+|-----|---------------------|-------------------------------------------------|
 
 
 
