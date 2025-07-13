@@ -26,7 +26,7 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |                     | 5. Missing number in the array                  |
 |     |                     | 6. Maximum Consecutive ones                     |
 |     |                     | 7. Single Number                                |
-|     |                     | 8. Find the number that appears twice           |
+|     |                     | 8. Find the number that appears once            |
 |-----|---------------------|-------------------------------------------------|
 
 
