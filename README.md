@@ -11,7 +11,7 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |-----|---------------------|-------------------------------------------------|
 | 1   | Arrays – Basics     | 1. Largest element in the array                 |
 |     |                     | 2. Second-largest element in the array          |
-|     |                     | 3. Check if the array is sorted                 |
+|     |    (12-07-2025)     | 3. Check if the array is sorted                 |
 |     |                     | 4. Check if the array is sorted and rotated     |
 |     |                     | 5. Remove Duplicates from the array             |
 |     |                     | 6. left rotate by one place                     |
@@ -20,8 +20,8 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |                     | 9. Right rotate by d places                     |
 |-----|---------------------|-------------------------------------------------|
 | 2   | Arrays – Basics     | 1. Move zeroes to the end                       |
-|     |                     | 2. Second-largest element in the array          |
-|     |                     | 3. Check if the array is sorted                 |
+|     |                     | 2. Union of two sorted arrays                   |
+|     |   (13-07-2025)      | 3. Check if the array is sorted                 |
 |     |                     | 4. Check if the array is sorted and rotated     |
 |     |                     | 5. Remove Duplicates from the array             |
 |     |                     | 6. left rotate by one place                     |
