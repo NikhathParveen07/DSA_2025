@@ -1,0 +1,57 @@
+Problem statement
+You are given an array 'a' of size 'n' and an integer 'k'.
+Find the length of the longest subarray of 'a' whose sum is equal to 'k'.
+
+Example :
+Input: ‘n’ = 7 ‘k’ = 3
+‘a’ = [1, 2, 3, 1, 1, 1, 1]
+Output: 3
+Explanation: Subarrays whose sum = ‘3’ are:
+[1, 2], [3], [1, 1, 1] and [1, 1, 1]
+
+Method 1 - Works only for arrays with positive integers
+CODE:
+int longestSubarrayWithSumK(vector<int> a, long long k) {
+    // Write your code here
+    int left = 0, right = 0, maxLen = 0;
+    long long sum = 0;
+    while(right < a.size()){
+        sum += a[right];
+        while(sum > k && left <= right){
+            sum -= a[left];
+            left++;
+        }
+        if(sum == k){
+            maxLen = max(maxLen, right - left + 1);
+        }
+        
+        right++;
+    }
+    return maxLen;
+}
+
+------------------------------------------------------
+Method 2 for both positives and negatives
+CODE:
+int longestSubarray(vector<int>& arr, int k) {
+        // code here
+        int sum = 0;
+        int maxLen = 0;
+        map<int, int> prefixSumMap;
+        for(int i = 0; i < arr.size(); i++){
+            sum += arr[i];
+            if(sum == k){
+                maxLen = max(maxLen, i + 1);
+            }
+            int rem = sum - k;
+            if(prefixSumMap.find(rem) != prefixSumMap.end()){
+                int len = i - prefixSumMap[rem];
+                maxLen = max(maxLen, len);
+            }
+            if(prefixSumMap.find(sum) == prefixSumMap.end()){
+                prefixSumMap[sum] = i;
+            }
+        }
+        
+        return maxLen;
+    }
