@@ -28,6 +28,10 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |                     | 7. Single Number                                |
 |     |                     | 8. Find the number that appears once            |
 |-----|---------------------|-------------------------------------------------|
+| 3   | Arrays – Basics     | 1. Longest Subarray with sum k                  |
+|     |                     | a) arrays with only positives                   |
+|     |   (14-07-2025)      | b) arrays with both pos and neg                 |
+|-----|---------------------|-------------------------------------------------|
 
 
 
