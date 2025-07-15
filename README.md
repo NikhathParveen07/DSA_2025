@@ -32,6 +32,10 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |                     | a) arrays with only positives                   |
 |     |   (14-07-2025)      | b) arrays with both pos and neg                 |
 |-----|---------------------|-------------------------------------------------|
+|     |      (15-07-2025)   |                                                 |
+|     |                     |  Break due to my exams                          |
+|     |                     |                                                 |
+|-----|---------------------|-------------------------------------------------|
 
 
 
