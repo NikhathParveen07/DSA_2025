@@ -33,10 +33,13 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |   (14-07-2025)      | b) arrays with both pos and neg                 |
 |-----|---------------------|-------------------------------------------------|
 |     |      (15-07-2025)   |                                                 |
-|     |                     |  Break due to my exams                          |
-|     |                     |                                                 |
+|     |         to          |  Break due to my exams                          |
+|     |      (27-07-2025)   |                                                 |
 |-----|---------------------|-------------------------------------------------|
-
+| 3   | Arrays – Medium     | 1. Two Sum                                      |
+|     |                     |check if array elements whose sum equals  target |
+|     |   (14-07-2025)      | return Yes/No (or) indexes of elements          |
+|-----|---------------------|-------------------------------------------------|
 
 
 
