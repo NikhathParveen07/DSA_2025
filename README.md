@@ -36,9 +36,13 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |         to          |  Break due to my exams                          |
 |     |      (27-07-2025)   |                                                 |
 |-----|---------------------|-------------------------------------------------|
-| 3   | Arrays – Medium     | 1. Two Sum                                      |
+| 4   | Arrays – Medium     | 1. Two Sum                                      |
 |     |                     |check if array elements whose sum equals  target |
-|     |   (14-07-2025)      | return Yes/No (or) indexes of elements          |
+|     |   (28-07-2025)      | return Yes/No (or) indexes of elements          |
+|-----|---------------------|-------------------------------------------------|
+| 5   | Arrays – Basics     | 1. Sort an array of 0,1,2                       |
+|     |                     | 2. Majority Element n/2 times                   |
+|     |   (03-08-2025)      | 3. Larest subarray sum                          |
 |-----|---------------------|-------------------------------------------------|
 
 
