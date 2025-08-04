@@ -40,9 +40,13 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     |                     |check if array elements whose sum equals  target |
 |     |   (28-07-2025)      | return Yes/No (or) indexes of elements          |
 |-----|---------------------|-------------------------------------------------|
-| 5   | Arrays – Basics     | 1. Sort an array of 0,1,2                       |
+| 5   | Arrays – Medium     | 1. Sort an array of 0,1,2                       |
 |     |                     | 2. Majority Element n/2 times                   |
 |     |   (03-08-2025)      | 3. Larest subarray sum                          |
+|-----|---------------------|-------------------------------------------------|
+| 6   | Arrays – Medium     | 1. Stock buy and Sell                           |
+|     |                     | 2.Rearrange Array Elements by Sign              |
+|     |   (04-08-2025)      |                                                 |
 |-----|---------------------|-------------------------------------------------|
 
 
