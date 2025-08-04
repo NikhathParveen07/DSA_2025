@@ -40,9 +40,6 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 | 6   | Arrays – Medium  | 1. Stock buy and Sell                          |
 |     |                  | 2. Rearrange Array Elements by Sign            |
 |     | (04-08-2025)     |                                                |
-| 6   | Arrays – Medium  | 1. Stock buy and Sell                          |
-|     |                  | 2. Rearrange Array Elements by Sign            |
-|     | (04-08-2025)     |                                                |
 
 
 
