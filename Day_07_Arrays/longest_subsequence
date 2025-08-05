@@ -1,0 +1,52 @@
+Given an array arr[] of non-negative integers. 
+Find the length of the longest sub-sequence such that elements in the subsequence are consecutive integers, the consecutive numbers can be in any order.
+Examples:
+
+Input: arr[] = [2, 6, 1, 9, 4, 5, 3]
+Output: 6
+Explanation: The consecutive numbers here are 1, 2, 3, 4, 5, 6. These 6 numbers form the longest consecutive subsquence.
+CODE 1:
+int longestConsecutive(vector<int>& arr) {
+        // Your code here
+        sort(arr.begin(), arr.end());
+        int cnt = 0;
+        int lastSmall = INT_MIN;
+        int l = 0;
+        for(int i : arr){
+            if(i-1 == lastSmall){
+                cnt++;
+                lastSmall = i;
+            }
+            else if(i != lastSmall){
+                cnt = 1;
+                lastSmall = i;
+            }
+            l = max(l, cnt);
+        }
+        return l;
+    }
+
+CODE 2:
+int lengthOfLongestConsecutiveSequence(vector<int> &arr, int n) {
+    // Write your code here.
+    if(n == 0) return 0;
+    unordered_set<int> set;
+    int cnt = 0, l = 0;
+
+    for(int i: arr){
+        set.insert(i);
+    }
+    for(int it: set){
+        if(set.find(it-1) == set.end()){
+            cnt = 1;
+            int x = it;
+            while(set.find(x+1) != set.end()){
+                x++;
+                cnt++;
+            }
+            l = max(l,cnt);
+        }
+    }
+    return l;
+    
+}
