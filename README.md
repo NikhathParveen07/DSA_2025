@@ -29,8 +29,7 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 | 3   | Arrays – Basics  | 1. Longest Subarray with sum k                 |
 |     |                  | a) arrays with only positives                  |
 |     | (14-07-2025)     | b) arrays with both pos and neg                |
-|     | (15-07-2025)     | Break due to my exams                          |
-|     | (27-07-2025)     |                                                |
+|                          Break due to my exams                          |
 | 4   | Arrays – Medium  | 1. Two Sum                                     |
 |     |                  | check if array elements whose sum equals target|
 |     | (28-07-2025)     | return Yes/No (or) indexes of elements         |
@@ -40,7 +39,7 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 | 6   | Arrays – Medium  | 1. Stock Buy and Sell                          |
 |     | (04-08-2025)     | 2. Rearrange Array Elements by Sign            |
 | 7   | Arrays - Medium  | 1.Next Permutation                             |
-|     |   (04-08-2025)   | 2.Leaders in the Array                         |
+|     |   (05-08-2025)   | 2.Leaders in the Array                         |
 |     |                  | 3.Length of Longest Subsequence in an array    |
 
 
