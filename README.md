@@ -41,6 +41,8 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 | 7   | Arrays - Medium  | 1.Next Permutation                             |
 |     |   (05-08-2025)   | 2.Leaders in the Array                         |
 |     |                  | 3.Length of Longest Subsequence in an array    |
+| 8   | Arrays - Medium  | Set Matrix Zeroes                              |
+|     | (06-08-2025)     |                                                |
 
 
 
