@@ -41,8 +41,13 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 | 7   | Arrays - Medium  | 1.Next Permutation                             |
 |     |   (05-08-2025)   | 2.Leaders in the Array                         |
 |     |                  | 3.Length of Longest Subsequence in an array    |
-| 8   | Arrays - Medium  | Set Matrix Zeroes                              |
-|     | (06-08-2025)     |                                                |
+| 8   | Arrays - Medium  | 1.Set Matrix Zeroes                            |
+|     | (06-08-2025)     | 2.Rotate matrix                                |
+|     |                  | 3.Spiral Matrix                                |
+| 9   | Arrays - Hard    | 1.Pascals triangle                             |
+|     |                  | 2.Subarray equal to k                          |
+| 10  | Arrays - Hard    | 1.3Sum                                         |
+|     | (03-09-2025)     | 2.Majority Element (n/3)                       |
 
 
 
