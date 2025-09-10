@@ -50,6 +50,10 @@ I am using Strivers A2Z sheet and platforms like Geeks for Geeks, leetcode, and 
 |     | (03-09-2025)     | 2.Majority Element (n/3)                       |
 | 11  | Arrays - Hard    | 1. 4Sum                                        |
 |     |  (06-09-2025)    |                                                |
+| 12  | Arrays - Hard    | 1. Count number of subarrays with given xor K  |                                     
+|     |  (10-09-2025)    |                                                |
+
+
 
 
 
